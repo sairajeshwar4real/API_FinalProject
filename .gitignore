@@ -1,0 +1,12 @@
+data/*
+!data/.gitkeep
+output/
+output_test/
+detection/output/
+detection/output_test/
+*.zip
+*.wav
+*.flac
+*.npz
+__pycache__/
+.DS_Store

@@ -1,0 +1,8 @@
+{
+  "traffic": 0.225,
+  "voices": 0.1,
+  "alarm": 0.125,
+  "dog_bark": 0.25,
+  "snoring": 0.2,
+  "door": 0.05
+}

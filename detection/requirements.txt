@@ -1,0 +1,5 @@
+numpy
+scipy
+soundfile
+tensorflow>=2.16      # Apple Silicon: plain `tensorflow` works natively; use Python 3.10-3.12
+tensorflow-hub
